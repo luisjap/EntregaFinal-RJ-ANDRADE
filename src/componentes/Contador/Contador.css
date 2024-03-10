@@ -1,0 +1,28 @@
+.btn2 {
+    background-color: rgb(111, 167, 185);
+    color: #fafafa;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn3 {
+    background-color: rgb(111, 167, 185);
+    color: #fafafa;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p {
+    font-size: 14px;
+
+}

@@ -1,0 +1,10 @@
+.carrito {
+    width: 90px;
+}
+
+strong{
+    font-size: 20px;
+    font-weight: 800;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
